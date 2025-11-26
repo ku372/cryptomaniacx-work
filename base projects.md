@@ -1,3 +1,4 @@
 BASE DISCORD ROLES 22
 GUILD TASK DONE
 SMART CONTRACT DEPLOYED
+made a token named cmx on zora
